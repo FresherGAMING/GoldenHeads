@@ -3,6 +3,8 @@
 namespace FresherGAMING\GoldenHeads;
 
 use pocketmine\plugin\PluginBase;
+use pocketmine\block\Block;
+use pocketmine\block\BlockBreakInfo;
 
 use customiesdevs\customies\block\CustomiesBlockFactory;
 
