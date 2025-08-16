@@ -16,7 +16,7 @@ class GoldenHeads extends PluginBase {
           "Golden Heads",
           new BlockBreakInfo(1)
         ),
-        "minecraft:golden_heads
+        "minecraft:golden_heads"
     );
   }
 
